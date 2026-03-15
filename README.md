@@ -208,7 +208,7 @@ npm install --global json5
 ```
 
 ### Usage
-```sh
+```
 json5 [options] <file>
 ```
 
